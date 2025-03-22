@@ -4,11 +4,9 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <h3 style="font-size: 32px; font-weight: bold; color: #FFA500; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-       IT and Cybersecurity Project Portfolio 🔐
+       IT & Cybersecurity Project Portfolio 🔐
     </h3>
-    <a href="https://www.linkedin.com/in/erik-vargas-60562625a/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+
 </div>
 
 
