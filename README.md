@@ -4,7 +4,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <h3 style="font-size: 32px; font-weight: bold; color: #FFA500; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-       IT & Cybersecurity Project Portfolio 🔐
+       CCNA & Cybersecurity Project Portfolio 🔐
     </h3>
 
 </div>
@@ -17,5 +17,5 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/cybererik/Vulnerability-Management-Program-Implementatio)**
+- **In progress**
 
