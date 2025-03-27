@@ -13,7 +13,9 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## 🚨 CCNA Projects 
+- **[Configure-Router-on-a-Stick-Inter-VLAN-Routing](https://github.com/cybererik/Configure-Router-on-a-Stick-Inter-VLAN-Routing)**
 - **[Configuring SSH Access/Disable Telnet Access](https://github.com/cybererik/Configuring-SSH-Access-Disable-Telnet-Access)**
+
 
 ## ⚠️ Vulnerability Management Projects
 
