@@ -14,13 +14,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/cybererik/Vulnerability-Management-Program-Implementation)**
+- **[Vulnerability Management Program Implementation](https://github.com/cybererik/Vulnerability-Management-Program-Implementatio)**
 
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cybererik/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
-
-<hr/>
+## 🚨 CCNA Projects 
+Configuring SSH Access/Disable Telnet Access
+- **[Vulnerability Management Program Implementation](https://github.com/cybererik/Vulnerability-Management-Program-Implementatio)**
 
 
