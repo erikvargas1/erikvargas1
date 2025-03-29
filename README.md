@@ -19,5 +19,6 @@ I'm passionate about tackling complex challenges through hands-on projects. From
 
 ## ⚠️ Vulnerability Management Projects
 
-- **In progress**
+- **[Programmatic Remediation in Windows](https://github.com/cybererik/Programmatic-Remediation-in-Windows)**
+
 
