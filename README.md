@@ -4,7 +4,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <h3 style="font-size: 32px; font-weight: bold; color: #FFA500; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-       Network Engineering and Security Project Portfolio 🔐
+      IT & Cybersecurity Project Portfolio 🔐
     </h3>
 
 </div>
