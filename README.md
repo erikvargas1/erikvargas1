@@ -4,7 +4,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <h3 style="font-size: 32px; font-weight: bold; color: #FFA500; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      IT & Cybersecurity Project Portfolio 🔐
+      Cybersecurity Project Portfolio 🔐
     </h3>
 
 </div>
@@ -12,12 +12,12 @@
 
 I'm passionate about tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## ⚠️ Vulnerability Management Projects
+## 📘 Blue Team Projects 
 - **[Vulnerability-Management-Program-Implementation](https://github.com/cybererik/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Remediation in Windows](https://github.com/cybererik/Programmatic-Remediation-in-Windows)**
 - **[Programmatic Remediation in Linux](https://github.com/cybererik/Programmatic-Remediation-in-Linux)**
 
-
+## 📍 Kusto Query Language (KQL)
 
 ## 🚨 CCNA Projects 
 - **[Configure-Router-on-a-Stick-Inter-VLAN-Routing](https://github.com/cybererik/Configure-Router-on-a-Stick-Inter-VLAN-Routing)**
