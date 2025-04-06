@@ -17,11 +17,13 @@ I'm passionate about tackling complex challenges through hands-on projects. From
 - **[Programmatic Remediation in Windows](https://github.com/cybererik/Programmatic-Remediation-in-Windows)**
 - **[Programmatic Remediation in Linux](https://github.com/cybererik/Programmatic-Remediation-in-Linux)**
 
-## 📍 Kusto Query Language (KQL)
-
-## 🚨 CCNA Projects 
+## 📰 CCNA Projects 
 - **[Configure-Router-on-a-Stick-Inter-VLAN-Routing](https://github.com/cybererik/Configure-Router-on-a-Stick-Inter-VLAN-Routing)**
 - **[Configuring SSH Access/Disable Telnet Access](https://github.com/cybererik/Configuring-SSH-Access-Disable-Telnet-Access)**
+
+## Kusto Query Language (KQL)
+- **[KQL-with-Azure-Activity-Logs](https://github.com/cybererik/KQL-with-Azure-Activity-Logs)**
+
 
 
 
