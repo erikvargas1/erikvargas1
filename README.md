@@ -4,7 +4,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <h3 style="font-size: 32px; font-weight: bold; color: #FFA500; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      Cybersecurity Project Portfolio 🔐
+      IT & Cybersecurity Project Portfolio 🔐
     </h3>
 
 </div>
@@ -25,6 +25,6 @@ I'm passionate about tackling complex challenges through hands-on projects. From
 - **[KQL-with-Azure-Activity-Logs](https://github.com/cybererik/KQL-with-Azure-Activity-Logs)**
 
 
-
-
+## Security Frameworks
+- in progress
 
