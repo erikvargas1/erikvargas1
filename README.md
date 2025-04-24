@@ -12,7 +12,7 @@
 
 ## 📘 Blue Team Projects
 - [**Vulnerability Management Program Implementation**](https://github.com/cybererik/Vulnerability-Management-Program-Implementation/tree/main)
-- [**Incident Analysis and Isolation**](https://github.com/cybererik/Incident-Analysis-and-Isolation/tree/main)
+- [**Detection Rules and Isolation**](https://github.com/cybererik/Detection-Rules-and-Isolation/tree/main)
 - [**Programmatic Remediation in Windows**](https://github.com/cybererik/Programmatic-Remediation-in-Windows/tree/main)
 - [**Programmatic Remediation in Linux**](https://github.com/cybererik/Programmatic-Remediation-in-Linux/tree/main)
 
