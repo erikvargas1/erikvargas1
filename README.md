@@ -17,6 +17,7 @@
 - [**Programmatic Remediation in Linux**](https://github.com/cybererik/Programmatic-Remediation-in-Linux/tree/main)
 
 ## 📰 CCNA Projects
+- [**You-Suck-at-Subnetting**](https://github.com/cybererik/You-Suck-at-Subnetting/tree/main)
 - [**Configuring Static Routes**](https://github.com/cybererik/Configuring-Static-Routes/tree/main)
 - [**Configure Router on a Stick - Inter-VLAN Routing**](https://github.com/cybererik/Configure-Router-on-a-Stick-Inter-VLAN-Routing/tree/main)
 - [**Configuring SSH Access & Disabling Telnet Access**](https://github.com/cybererik/Configuring-SSH-Access-Disable-Telnet-Access/tree/main)
