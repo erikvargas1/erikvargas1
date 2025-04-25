@@ -1,13 +1,11 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Erik+Vargas!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2196F3&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Erik+Vargas!" alt="Typing SVG" />
 </p>
-
-<h3 align="center" style="font-size: 32px; font-weight: bold; color: #FFA500; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-  IT & Cybersecurity Project Portfolio 🔐
-</h3>
-
 <p align="center">
-  I'm passionate about tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
+## Professional Summary
+I'm passionate about tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 </p>
 
 ------
