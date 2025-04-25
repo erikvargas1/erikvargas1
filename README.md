@@ -15,7 +15,7 @@
 -----
 
 ## 📰 Networking Projects
-- [**VLSM-New-Warehouse**](https://github.com/cybererik/You-Suck-at-Subnetting/tree/main)
+- [**VLSM-New-Warehouse**](https://github.com/cybererik/VLSM-New-Warehouse)
 - [**Subnet-My-Coffee-Shop**](https://github.com/cybererik/You-Suck-at-Subnetting/tree/main)
 - [**Configuring Static Routes**](https://github.com/cybererik/Configuring-Static-Routes/tree/main)
 - [**Configure Router on a Stick - Inter-VLAN Routing**](https://github.com/cybererik/Configure-Router-on-a-Stick-Inter-VLAN-Routing/tree/main)
