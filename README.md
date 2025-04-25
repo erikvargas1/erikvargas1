@@ -16,7 +16,7 @@
 - [**Programmatic Remediation in Windows**](https://github.com/cybererik/Programmatic-Remediation-in-Windows/tree/main)
 - [**Programmatic Remediation in Linux**](https://github.com/cybererik/Programmatic-Remediation-in-Linux/tree/main)
 
-## 📰 CCNA Projects
+## 📰 Networking Projects
 - [**Subnetting-My-Coffee-Shop**](https://github.com/cybererik/You-Suck-at-Subnetting/tree/main)
 - [**Configuring Static Routes**](https://github.com/cybererik/Configuring-Static-Routes/tree/main)
 - [**Configure Router on a Stick - Inter-VLAN Routing**](https://github.com/cybererik/Configure-Router-on-a-Stick-Inter-VLAN-Routing/tree/main)
