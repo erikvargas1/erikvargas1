@@ -30,12 +30,3 @@
 - [**NIST 800-61: Computer Security Incident Handling**](https://github.com/cybererik/NIST-800-61-Computer-Security-Incident-Handling/tree/main)
 
 ---
-
-### Vulnerability Management & Security Testing 
-![Tenable](https://img.shields.io/badge/Tenable-483D8B?style=for-the-badge&logo=Tenable&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-4682B4?style=for-the-badge&logo=PowerShell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-3EAA52?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
-### Network Analysis Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4C4C4C?style=for-the-badge&logo=Nmap&logoColor=white)
