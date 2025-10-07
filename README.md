@@ -30,27 +30,6 @@
 - [**NIST 800-61: Computer Security Incident Handling**](https://github.com/cybererik/NIST-800-61-Computer-Security-Incident-Handling/tree/main)
 
 ---
-## 💡 Technical Expertise
-
-### Enterprise & Cloud Tools
-![Active Directory](https://img.shields.io/badge/Active%20Directory-3A3A3A?style=for-the-badge&logo=Windows&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-6A0DAD?style=for-the-badge&logo=Microsoft&logoColor=white)
-![Windows Server 2022](https://img.shields.io/badge/Windows%20Server%202022-DAA520?style=for-the-badge&logo=Windows&logoColor=white)
-![Google Admin](https://img.shields.io/badge/Google%20Admin-34A853?style=for-the-badge&logo=Google&logoColor=white)
-![AirWatch](https://img.shields.io/badge/AirWatch-FFA500?style=for-the-badge&logo=VMware&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-4682B4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
-![SCCM](https://img.shields.io/badge/SCCM-556B2F?style=for-the-badge&logo=Microsoft%20System%20Center&logoColor=white)
-
-### Endpoint & Virtualization Tools
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-DC143C?style=for-the-badge&logo=Microsoft&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-1C3D6F?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-8A2BE2?style=for-the-badge&logo=VMware&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2B3A42?style=for-the-badge&logo=Kali%20Linux&logoColor=white)
-
-### SIEM & Monitoring Tools
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-FF6347?style=for-the-badge&logo=Microsoft&logoColor=white)
-![WhatsUp Gold](https://img.shields.io/badge/WhatsUp%20Gold-F5A623?style=for-the-badge&logo=WhatsUp%20Gold&logoColor=white)
-![AD Audit](https://img.shields.io/badge/AD%20Audit-20B2AA?style=for-the-badge&logo=Windows&logoColor=white)
 
 ### Vulnerability Management & Security Testing 
 ![Tenable](https://img.shields.io/badge/Tenable-483D8B?style=for-the-badge&logo=Tenable&logoColor=white)
