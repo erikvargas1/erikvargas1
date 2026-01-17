@@ -7,7 +7,7 @@
 ------
 
 ## 📰 Networking Projects
-- [**DeskPi-Server-Rack**](https://github.com/erikvargas1/DeskPi-Server-Rack/blob/main/README.md)
+- [**DeskPi-Server-Rack**](https://github.com/erikvargas1/DeskPi-Server-Rack)
 - [**VLSM-New-Warehouse**](https://github.com/cybererik/VLSM-New-Warehouse)
 - [**Configuring Static Routes**](https://github.com/cybererik/Configuring-Static-Routes/tree/main)
 
